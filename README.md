@@ -12,8 +12,8 @@
 
 <p>The dataset we have used in this project:</p>
 <ul>
-    <li><a href="https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata">TMDB DataSet</a><br></li>
-  <li><a href="https://www.kaggle.com/datasets/rounakbanik/the-movies-dataset">Movie DataSet</a></li>
+    <li><a href="https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata">TMDB Dataset</a><br></li>
+  <li><a href="https://www.kaggle.com/datasets/rounakbanik/the-movies-dataset">Movie Dataset</a></li>
 </ul>
 
 <h2>Key Features</h2>
