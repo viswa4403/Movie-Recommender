@@ -50,8 +50,6 @@
 <p>We have evaluated the recommendation system’s performance using metrics such as RMSE and Precision to ensure it accurately reflects user preferences. The results showed promising alignment with user tastes, confirming that the model can make reliable recommendations.</p>
 
 <h2>Team Members</h2>
-
-<p>Team Members:</p>
 <ul>
     <li><strong>Abhijit P A</strong> - CB.EN.U4CSE21101</li>
     <li><strong>Hariish G</strong> - CB.EN.U4CSE21124</li>
